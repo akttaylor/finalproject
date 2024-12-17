@@ -1,9 +1,9 @@
 <?php
 class DatabaseConnection {
     private $host = 'localhost';
-    private $username = 'root';
-    private $password = '';
-    private $database = 'annot';
+    private $username = 'alvin.yeboah';
+    private $password = 'thyme84?pro';
+    private $database = 'webtech_fall2024_alvin_yeboah';
 
     public function connect() {
         // Create connection
